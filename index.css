@@ -1,0 +1,13 @@
+.completed{
+    background-color: #e9e4e4;
+    text-decoration: line-through;
+}
+
+body{
+    background-color: #F04692 !important;
+}
+
+.task{
+    border-bottom: 1px solid #c9c6c6;
+}
+
